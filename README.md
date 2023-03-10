@@ -2,7 +2,7 @@
 
 ## <center>✨ Who I am ✨</center>
 
-I’m currently working on my second year in Epitech
+I’m currently working on my third year in Epitech
 <br>
 🌱 I’m currently learning C, Haskell and C++
 <br>
